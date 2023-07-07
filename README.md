@@ -1,7 +1,7 @@
 # Videos_to_watch
 I put videos I don't have time to watch here to watch on free time
 
-##Hair Sim
+## Hair Sim
 - [Discrete Elastic Rods](https://www.youtube.com/watch?v=MBYBV8EAis0)
 - [Elastic Deformation and Plastic Deformation | Mechanical Properties of Solids](https://www.youtube.com/watch?v=YKpvYF0hVDE)
 - [Understanding Young's Modulus](https://www.youtube.com/watch?v=DLE-ieOVFjI)
@@ -14,6 +14,6 @@ I put videos I don't have time to watch here to watch on free time
 - [Duck Duck Go](https://duckduckgo.com)
 - [Duck Duck Go](https://duckduckgo.com)
 
-#Reading material
+# Reading material
 - [Houdini tutorial](https://www.sidefx.com/docs/houdini/fluid/dopversussop.html#:~:text=SOP%20stands%20for%20Surface%20OPerator,are%20used%20to%20construct%20simulations.)
 - [OpenGL tutorial](https://learnopengl.com/Getting-started/OpenGL)
