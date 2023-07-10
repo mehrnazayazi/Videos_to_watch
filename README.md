@@ -12,8 +12,8 @@ I put videos I don't have time to watch here to watch on free time
 - [Duck Duck Go](https://duckduckgo.com)
 - [Duck Duck Go](https://duckduckgo.com)
 - [Duck Duck Go](https://duckduckgo.com)
-- [Duck Duck Go](https://duckduckgo.com)
 
 # Reading material
 - [Houdini tutorial](https://www.sidefx.com/docs/houdini/fluid/dopversussop.html#:~:text=SOP%20stands%20for%20Surface%20OPerator,are%20used%20to%20construct%20simulations.)
 - [OpenGL tutorial](https://learnopengl.com/Getting-started/OpenGL)
+- [Loads of topology material](https://jasoncantarella.com/downloads/)
